@@ -59,6 +59,7 @@ As a Help Desk Agent (Admin), we can observe the ticket’s properties
 Set Properties to the ticket
 <p>-Sev-A (1 hour, 24/7)</p>
 <p>-Online Banking Department</p>
+<p>Help Topic: Business Critical Outage</p>
 
 <p>
 
@@ -175,6 +176,7 @@ As a Help Desk Agent (Admin), we can observe the ticket’s properties
 Set Properties to the ticket
 <p>-Sev-B (4 hours, 24/7)</p>
 <p>-Support</p>
+<p>Priority Level: Emergency</p>
 
 <p>
 
