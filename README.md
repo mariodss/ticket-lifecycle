@@ -30,7 +30,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-As an end-user, create the following ticket: entire mobile/online banking system is down
+As an end-user, create the following ticket: entire mobile/online banking system is down.
+<p>Use cusomer Karen as the end-user</p>
 
 </p>
 <br />
@@ -93,6 +94,7 @@ Jane can announce her progress by writing a message that will be seen by everyon
 
 As an end-user, create the following ticket:
 accounting department needs adobe upgrade, broken
+<p>Use cusomer Ken as the end-user</p>
 
 
 <br />
@@ -144,6 +146,7 @@ We can assign the ticket to ourselves. After that, we can announce our progress 
 
 As an end-user, create the following ticket:
 CFO’s laptop will no longer turn on
+<p>Use cusomer Karen as the end-user</p>
 
 
 <br />
