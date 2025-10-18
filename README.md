@@ -118,7 +118,7 @@ As a Help Desk Agent (Admin), we can observe the ticket’s properties
 
 </p>
 Set Properties to the ticket
-<p>-Sev-C (6 hours, 24/7)</p>
+<p>-Sev-C (8 hours, Business Hours)</p>
 <p>-Support</p>
 
 <p>
